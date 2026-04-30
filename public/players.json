@@ -1,0 +1,123 @@
+
+[
+  {
+    "player-image": "https://i.ibb.co/mFd0ML9x/Virat-kholi.avif",
+    "player-name": "Virat Kohli",
+    "player-country": "India",
+    "player-role": "Batter",
+    "rating": 9.8,
+    "bating-style": "Right-hand bat",
+    "bowling-style": "Right-arm medium",
+    "price": "21.00 Crore"
+  },
+  {
+    "player-image": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/3.png",
+    "player-name": "Rishabh Pant",
+    "player-country": "India",
+    "player-role": "Wicketkeeper Batter",
+    "rating": 9.7,
+    "bating-style": "Left-hand bat",
+    "bowling-style": "N/A",
+    "price": "27.00 Crore"
+  },
+  {
+    "player-image": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1.png",
+    "player-name": "MS Dhoni",
+    "player-country": "India",
+    "player-role": "Wicketkeeper Batter",
+    "rating": 9.2,
+    "bating-style": "Right-hand bat",
+    "bowling-style": "Right-arm medium",
+    "price": "4.00 Crore"
+  },
+  {
+    "player-image": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/107.png",
+    "player-name": "Rohit Sharma",
+    "player-country": "India",
+    "player-role": "Batter",
+    "rating": 9.4,
+    "bating-style": "Right-hand bat",
+    "bowling-style": "Right-arm offbreak",
+    "price": "16.30 Crore"
+  },
+  {
+    "player-image": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/9.png",
+    "player-name": "Jasprit Bumrah",
+    "player-country": "India",
+    "player-role": "Bowler",
+    "rating": 9.9,
+    "bating-style": "Right-hand bat",
+    "bowling-style": "Right-arm fast",
+    "price": "18.00 Crore"
+  },
+  {
+    "player-image": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/215.png",
+    "player-name": "Rashid Khan",
+    "player-country": "Afghanistan",
+    "player-role": "Bowling Allrounder",
+    "rating": 9.6,
+    "bating-style": "Right-hand bat",
+    "bowling-style": "Right-arm legbreak",
+    "price": "18.00 Crore"
+  },
+  {
+    "player-image": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/156.png",
+    "player-name": "Shreyas Iyer",
+    "player-country": "India",
+    "player-role": "Batter",
+    "rating": 9.1,
+    "bating-style": "Right-hand bat",
+    "bowling-style": "Right-arm offbreak",
+    "price": "26.75 Crore"
+  },
+  {
+    "player-image": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/236.png",
+    "player-name": "Pat Cummins",
+    "player-country": "Australia",
+    "player-role": "Bowling Allrounder",
+    "rating": 9.5,
+    "bating-style": "Right-hand bat",
+    "bowling-style": "Right-arm fast",
+    "price": "18.00 Crore"
+  },
+  {
+    "player-image": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/54.png",
+    "player-name": "Heinrich Klaasen",
+    "player-country": "South Africa",
+    "player-role": "Wicketkeeper Batter",
+    "rating": 9.5,
+    "bating-style": "Right-hand bat",
+    "bowling-style": "Right-arm offbreak",
+    "price": "23.00 Crore"
+  },
+  {
+    "player-image": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/11.png",
+    "player-name": "Sunil Narine",
+    "player-country": "West Indies",
+    "player-role": "Allrounder",
+    "rating": 9.4,
+    "bating-style": "Left-hand bat",
+    "bowling-style": "Right-arm offbreak",
+    "price": "12.00 Crore"
+  },
+  {
+    "player-image": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/145.png",
+    "player-name": "Jos Buttler",
+    "player-country": "England",
+    "player-role": "Wicketkeeper Batter",
+    "rating": 9.3,
+    "bating-style": "Right-hand bat",
+    "bowling-style": "N/A",
+    "price": "15.75 Crore"
+  },
+  {
+    "player-image": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/10.png",
+    "player-name": "Hardik Pandya",
+    "player-country": "India",
+    "player-role": "Allrounder",
+    "rating": 9.0,
+    "bating-style": "Right-hand bat",
+    "bowling-style": "Right-arm fast-medium",
+    "price": "16.35 Crore"
+  }
+]
