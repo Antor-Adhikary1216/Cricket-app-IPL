@@ -2,16 +2,16 @@
 [
   {
     "player-image": "https://i.ibb.co/mFd0ML9x/Virat-kholi.avif",
-    "player-name": "Virat Kohli",
+    "player-name": "king Kohli",
     "player-country": "India",
     "player-role": "Batter",
-    "rating": 9.8,
+    "rating": 100,
     "bating-style": "Right-hand bat",
     "bowling-style": "Right-arm medium",
-    "price": "21.00 Crore"
+    "price": "Unlimited"
   },
   {
-    "player-image": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/3.png",
+    "player-image": "https://i.ibb.co/V0rrfbMW/Rishabh-Pant.avif",
     "player-name": "Rishabh Pant",
     "player-country": "India",
     "player-role": "Wicketkeeper Batter",
@@ -21,17 +21,17 @@
     "price": "27.00 Crore"
   },
   {
-    "player-image": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1.png",
+    "player-image": "https://i.ibb.co/Xkjqhxnz/MS-Dhoni.jpg",
     "player-name": "MS Dhoni",
     "player-country": "India",
     "player-role": "Wicketkeeper Batter",
     "rating": 9.2,
     "bating-style": "Right-hand bat",
     "bowling-style": "Right-arm medium",
-    "price": "4.00 Crore"
+    "price": "1.00 Crore"
   },
   {
-    "player-image": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/107.png",
+    "player-image": "https://i.ibb.co/bgd3xNqm/Rohit-Sharma.jpg",
     "player-name": "Rohit Sharma",
     "player-country": "India",
     "player-role": "Batter",
@@ -41,7 +41,7 @@
     "price": "16.30 Crore"
   },
   {
-    "player-image": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/9.png",
+    "player-image": "https://i.ibb.co/7NthH7VJ/Jasprit-Bumrah.jpg",
     "player-name": "Jasprit Bumrah",
     "player-country": "India",
     "player-role": "Bowler",
@@ -51,7 +51,7 @@
     "price": "18.00 Crore"
   },
   {
-    "player-image": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/215.png",
+    "player-image": "https://i.ibb.co/CKfJQh5r/Rashid-Khan.jpg",
     "player-name": "Rashid Khan",
     "player-country": "Afghanistan",
     "player-role": "Bowling Allrounder",
@@ -61,7 +61,7 @@
     "price": "18.00 Crore"
   },
   {
-    "player-image": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/156.png",
+    "player-image": "https://i.ibb.co/d4nM5rFL/Shreyas-Iyer.jpg",
     "player-name": "Shreyas Iyer",
     "player-country": "India",
     "player-role": "Batter",
@@ -71,7 +71,7 @@
     "price": "26.75 Crore"
   },
   {
-    "player-image": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/236.png",
+    "player-image": "https://i.ibb.co/ZpZT0snV/Pat-Cummins.webp",
     "player-name": "Pat Cummins",
     "player-country": "Australia",
     "player-role": "Bowling Allrounder",
@@ -81,7 +81,7 @@
     "price": "18.00 Crore"
   },
   {
-    "player-image": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/54.png",
+    "player-image": "https://i.ibb.co/3mK9SPFt/Heinrich-Klaasen.jpg",
     "player-name": "Heinrich Klaasen",
     "player-country": "South Africa",
     "player-role": "Wicketkeeper Batter",
@@ -91,7 +91,7 @@
     "price": "23.00 Crore"
   },
   {
-    "player-image": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/11.png",
+    "player-image": "https://i.ibb.co/B5yWgw05/Sunil-Narine.jpg",
     "player-name": "Sunil Narine",
     "player-country": "West Indies",
     "player-role": "Allrounder",
@@ -101,7 +101,7 @@
     "price": "12.00 Crore"
   },
   {
-    "player-image": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/145.png",
+    "player-image": "https://i.ibb.co/F4SdCLkD/Jos-Buttler.jpg",
     "player-name": "Jos Buttler",
     "player-country": "England",
     "player-role": "Wicketkeeper Batter",
@@ -111,7 +111,7 @@
     "price": "15.75 Crore"
   },
   {
-    "player-image": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/10.png",
+    "player-image": "https://i.ibb.co/V0n6CPP2/Hardik-Pandya.jpg",
     "player-name": "Hardik Pandya",
     "player-country": "India",
     "player-role": "Allrounder",
