@@ -6,14 +6,9 @@ The app displays available cricket players with their country, role, rating, bat
 ---
 
 ## 🚀 Live Demo
+[
+Live link: *Add your deployed website link here*](https://majestic-cobbler-00bc11.netlify.app/)
 
-Live link: *Add your deployed website link here*
-
----
-
-## 📸 Project Preview
-
-*Add your project screenshot here*
 
 ---
 
